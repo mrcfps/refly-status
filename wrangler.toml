@@ -1,5 +1,5 @@
-account_id = "0db3c9ec1d741afb9a63eab399c77c3b"
-name = "cf-worker-status-page-pro"
+account_id = "64ad4569ffd912432d6b86d5656484c4"
+name = "refly-status"
 main = "./src/worker/index.ts"
 compatibility_flags = [ "streams_enable_constructors" ]
 compatibility_date = "2021-09-29"
